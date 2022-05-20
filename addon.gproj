@@ -1,0 +1,8 @@
+GameProject {
+ ID "TriggerTest"
+ GUID "5968D0949C995D5A"
+ TITLE "TriggerTest"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
